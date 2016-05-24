@@ -21,7 +21,7 @@ Unofficial Tencent XG Push Service iOS SDK
 
   s.platform     = :ios, "7.0"
 
-  s.source       = { :git => "https://github.com/shaozl/xg_ios_push.git", :tag => "2.4.6" }
+  s.source       = { :git => "https://github.com/shaozl/xg_ios_push.git", :tag => "2.4.8" }
 
   s.source_files  = "Classes/*.{h,m}"
   s.vendored_libraries = 'Classes/*.a'
