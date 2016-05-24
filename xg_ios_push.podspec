@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "xg_ios_push"
-  s.version      = "2.4.6"
+  s.version      = "2.4.8"
   s.summary      = "Tencent XG Push Service iOS SDK"
 
   s.description  = <<-DESC
